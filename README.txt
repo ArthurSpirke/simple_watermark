@@ -1,1 +1,1 @@
-Add watermark on you product image
+Add watermark on your product image
